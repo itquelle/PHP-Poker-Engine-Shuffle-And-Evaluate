@@ -1,9 +1,10 @@
 <?php
 /**
  * @copyright Jayme Fishman
- * @package https://www.phpclasses.org/package/3149-PHP-Shuffle-and-evaluate-a-Poker-deck-of-cards.html
- * @extends Stevie-Ray Z. (@itquelle.de)
+ * @class https://www.phpclasses.org/package/3149-PHP-Shuffle-and-evaluate-a-Poker-deck-of-cards.html
+ * @overwrite Stevie-Ray Jr. (@itquelle.de)
  */
+
 interface pokerEngineInterface{
     public function getText();
     public function getKickerArray(): array;
