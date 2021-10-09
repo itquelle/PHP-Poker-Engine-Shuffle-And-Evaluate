@@ -15,7 +15,10 @@ $poker->getWinners();
 echo $poker->getJSON();
 ```
 
-# Array Output
+# JSON-Output
+```json
+..
+```
 
 # Language
 You find all languages strings in language folder
