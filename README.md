@@ -6,6 +6,6 @@ https://www.phpclasses.org/package/3149-PHP-Shuffle-and-evaluate-a-Poker-deck-of
 
 # Language
 You find all languages strings in language folder
-```bash
+```console
 ls /language/
 ```
