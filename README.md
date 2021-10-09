@@ -60,12 +60,12 @@ echo $poker->getJSON();
         "text": "YOU HAVE BUNK - HIGH CARD 5"
     },
     "winner_list": [
-        0
+        0: 0
     ],
     "winner_list_by_percent": [
-        "13.46131313",
-        "11.42131313",
-        "6.39131313"
+        0: "13.46131313",
+        1: "11.42131313",
+        2: "6.39131313"
     ]
 }
 ```
