@@ -1,1 +1,2 @@
-# pokerengine
+# PHP-Poker Engine
+
