@@ -16,7 +16,7 @@ echo $poker->getJSON();
 ```
 
 # JSON-Output
-```json
+```yaml
 {
     "flop": [
         "3C",
