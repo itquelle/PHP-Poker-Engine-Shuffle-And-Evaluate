@@ -5,7 +5,7 @@ https://www.phpclasses.org/package/3149-PHP-Shuffle-and-evaluate-a-Poker-deck-of
 # Array Output
 
 # Language
-You find the langauge files on
+You find all languages strings in language folder
 ```bash
 ls /language/
 ```
