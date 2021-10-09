@@ -3,6 +3,8 @@ We create a better output for the PHP-Poker Class from Jayme Fishman, to start w
 https://www.phpclasses.org/package/3149-PHP-Shuffle-and-evaluate-a-Poker-deck-of-cards.html
 
 # Example
+Demo: https://github.itquelle.de/poker/
+
 ```php
 require "classes/poker.php";
 
