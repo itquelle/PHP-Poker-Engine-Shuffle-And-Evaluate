@@ -10,7 +10,7 @@ You find all languages strings in language folder
 cd /language/
 ```
 
-Set another language
+Set language
 ```php
 $poker->setLanguage("de");
 ```
