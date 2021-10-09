@@ -1,4 +1,6 @@
 <?php
+/** LOGS */
+const LOGS_00 = "PLAYER NUMBER MUST BE BETWEEN 0 AND 9!";
 /** KICKER */
 const LANG_00 = "Ace Kicker";
 const LANG_01 = "King Kicker";

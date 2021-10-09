@@ -63,7 +63,7 @@ function handEvaluate($texasDeck, $finalHand, $playerID, &$playPokerArray){
  * @info(EN) Set array to evaluate hands
  */
 for($i=0; $i<$numberOfPlayers; $i++){
-    handEvaluate($texasDeck, $texasDeck->{"getP".($i+1)."FinalHand"}(), $i, $playPokerArray);
+    handEvaluate($texasDeck, $texasDeck->getPlayerFinalHandByIdStringFormat($i), $i, $playPokerArray);
 }
 
 /**
@@ -77,4 +77,4 @@ function getWinner($playerArrayList){
 krsort($playerPointsArrayList);
 getWinner($playerPointsArrayList);
 
-print_r($playPokerArray);
+echo "<pre>".print_r($playPokerArray, 1)."</pre>";

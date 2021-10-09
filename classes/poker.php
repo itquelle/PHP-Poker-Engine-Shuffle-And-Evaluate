@@ -5,7 +5,7 @@
  * @extends Stevie-Ray Z. (@itquelle.de)
  */
 interface pokerEngineInterface{
-    public function getText(): string;
+    public function getText();
     public function getKickerArray(): array;
 }
 class pokerEngine implements pokerEngineInterface{
@@ -26,7 +26,7 @@ class pokerEngine implements pokerEngineInterface{
         return $this->kickerArray;
     }
 
-    public function getText(): string{
+    public function getText(){
         return $this->text;
     }
 
