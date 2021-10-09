@@ -9,3 +9,8 @@ You find all languages strings in language folder
 ```bat
 cd /language/
 ```
+
+Set another language
+```php
+$poker->setLanguage("de");
+```
