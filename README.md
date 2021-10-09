@@ -7,5 +7,5 @@ https://www.phpclasses.org/package/3149-PHP-Shuffle-and-evaluate-a-Poker-deck-of
 # Language
 You find all languages strings in language folder
 ```bat
-ls /language/
+cd /language/
 ```
