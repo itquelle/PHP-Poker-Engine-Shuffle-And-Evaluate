@@ -70,6 +70,9 @@ echo $poker->getJSON();
 }
 ```
 
+# Check winner by id's
+You have "winner_list_by_percent", remove all eliminated players, to check the ending winner
+
 # Language
 You find all languages strings in language folder
 ```bat
